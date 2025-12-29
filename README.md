@@ -16,7 +16,7 @@ src="https://img.shields.io/twitter/follow/officiialPrazol?logo=twitter&style=fo
 /></a><a href="https://www.github.com/esprajwol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/esprajwol?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a" /></a>
 
-[![wakatime](https://wakatime.com/badge/user/350456e7-984d-4f8e-8c1d-9b4ff2f3a670/project/e336fb7f-0d15-4c7f-a75b-21f8e-8c1d-9b4ff2f3a670/project/e336fb
+[![wakatime]([https://wakatime.com/badge/user/350456e7-984d-4f8e-8c1d-9b4ff2f3a670/project/e336fb7f-0d15-4c7f-a75b-21f8e-8c1d-9b4ff2f3a670/project/e336fb](https://wakatime.com/@350456e7-984d-4f8e-8c1d-9b4ff2f3a670)
 
 ## AI Development Stack
 
