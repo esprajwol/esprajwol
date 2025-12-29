@@ -1,24 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prajwol KC
-==================================================================================================================================
+# Hi! My name is Prajwol KC
 
-Software Engineer
------------------
+**Software Engineer | Code XtraCrafter**
 
-Code XtraCrafter
-
-* 🌍  I'm based in Kathmandu
-* 🖥️  See my portfolio at [prajwolkc.com.np](https://prajwolkc.com.np)
-* ✍️   I love to write at [prajwol-kc.com.np](https://prajwol-kc.com.np)
-* ✉️  You can contact me at [noreply@prajwolkc.com.np](mailto:noreply@prajwolkc.com.np)
-* 🧠  I'm learning Agentic AI, zero trust security implementation
-* ⚡  & I love traveling
+* 🌍 I'm based in Kathmandu
+* 🖥️ See my portfolio at [prajwolkc.com.np](https://prajwolkc.com.np)
+* ✍️ I love to write at [prajwol-kc.com.np](https://prajwol-kc.com.np)
+* ✉️ You can contact me at [noreply@prajwolkc.com.np](mailto:noreply@prajwolkc.com.np)
+* 🧠 I'm learning **Agentic AI**, **zero trust security implementation**, and **AI-assisted development workflows**
+* 🤖 Actively working with **Claude AI** for intelligent code analysis, technical writing, and complex problem-solving
+* 💻 Building with **Cursor AI** for enhanced code completion, AI-powered debugging, and rapid prototyping
+* ⚡ I love traveling
 
 <a href="https://www.twitter.com/officiialPrazol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/officiialPrazol?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
 /></a><a href="https://www.github.com/esprajwol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/esprajwol?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a" /></a>
 
-[![wakatime](https://wakatime.com/badge/user/350456e7-984d-4f8e-8c1d-9b4ff2f3a670/project/e336fb7f-0d15-4c7f-a75b-21dd89d1a214.svg)](https://wakatime.com/badge/user/350456e7-984d-4f8e-8c1d-9b4ff2f3a670/project/e336fb7f-0d15-4c7f-a75b-21dd89d1a214)
+[![wakatime](https://wakatime.com/badge/user/350456e7-984d-4f8e-8c1d-9b4ff2f3a670/project/e336fb7f-0d15-4c7f-a75b-21f8e-8c1d-9b4ff2f3a670/project/e336fb
+
+## AI Development Stack
+
+I leverage cutting-edge AI tools to enhance productivity and code quality:
+
+**Claude AI (Anthropic)**
+- Utilizing Claude Sonnet 4.5 for complex code analysis and architectural planning
+- Employing Constitutional AI principles for safe, reliable development assistance
+- Leveraging 200K+ token context windows for comprehensive codebase understanding
+- Applications: API documentation generation, code review, technical writing, and multi-step reasoning tasks
+
+**Cursor AI**
+- AI-powered code editor built on VS Code with GPT-4, GPT-4 Turbo, and Claude integration
+- Real-time code completion with multi-line predictions and context-aware suggestions
+- Natural language commands for rapid code generation and refactoring
+- Advanced debugging with AI-powered bug detection and automated test case generation
+
+**AI-Assisted Development Workflow**
+- Integrating GitHub Copilot for intelligent pair programming and documentation
+- Implementing AI-driven testing and code quality analysis
+- Exploring agentic AI patterns for autonomous development workflows
 
 ### Skills
 
@@ -68,7 +87,8 @@ src="https://img.shields.io/github/followers/esprajwol?logo=github&style=for-the
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/prajwolpkc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/officialprajwol/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/esprajwol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://prajwol.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/prajwolpkc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/prajwolpkc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@prajwolpkc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users//4158046/prajwol-kc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/officiialPrazol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+---
