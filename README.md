@@ -10,9 +10,8 @@ Code XtraCrafter
 * 🖥️  See my portfolio at [prajwolkc.com.np](https://prajwolkc.com.np)
 * ✍️   I love to write at [prajwol-kc.com.np](https://prajwol-kc.com.np)
 * ✉️  You can contact me at [noreply@prajwolkc.com.np](mailto:noreply@prajwolkc.com.np)
-* 🧠  I'm learning Image Captionining using RNN and CNN/LSTM
-* 🤝  I'm open to collaborating on Nestjs Tenancy
-* ⚡  & I love Traveling
+* 🧠  I'm learning Agentic AI, zero trust security implementation
+* ⚡  & I love traveling
 
 <a href="https://www.twitter.com/officiialPrazol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/officiialPrazol?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
