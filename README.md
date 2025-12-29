@@ -14,9 +14,7 @@
 <a href="https://www.twitter.com/officiialPrazol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/officiialPrazol?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
 /></a><a href="https://www.github.com/esprajwol" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/esprajwol?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a" /></a>
-
-[![wakatime]([https://wakatime.com/badge/user/350456e7-984d-4f8e-8c1d-9b4ff2f3a670/project/e336fb7f-0d15-4c7f-a75b-21f8e-8c1d-9b4ff2f3a670/project/e336fb](https://wakatime.com/@350456e7-984d-4f8e-8c1d-9b4ff2f3a670)
+src="https://img.shields.io/github/followers/esprajwol?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a" /></a><a href="https://wakatime.com/@Prajwlolpkc" target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/350456e7-984d-4f8e-8c1d-9b4ff2f3a670.svg" /></a>
 
 ## AI Development Stack
 
@@ -91,4 +89,3 @@ I leverage cutting-edge AI tools to enhance productivity and code quality:
 
 <p align="left"> <a href="https://www.dev.to/prajwolpkc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/officialprajwol/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/esprajwol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://prajwol.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/prajwolpkc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/prajwolpkc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@prajwolpkc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users//4158046/prajwol-kc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/officiialPrazol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
----
