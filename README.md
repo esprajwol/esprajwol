@@ -13,8 +13,8 @@
 
 <a href="https://www.twitter.com/officiialPrazol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/officiialPrazol?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
-/></a><a href="https://www.github.com/esprajwol" target="_blank" rel="noreferrer"><img
-src="[https://img.shields.io/github/followers/esprajwol?logo=github&style=for-the-badge&color=22c55e&labelColor=0f172a](https://www.beeminder.com/assets/logo_wakatime-e3592ca163fe0ffefc323fba26dd53ab17fde0945ec405fde3f9e0c02d92de8b.png)" /></a><a href="https://wakatime.com/@Prajwlolpkc" target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/350456e7-984d-4f8e-8c1d-9b4ff2f3a670.svg" /></a>
+/></a>
+
 
 ## AI Development Stack
 
